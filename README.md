@@ -11,4 +11,5 @@ Get Weather prediction for next one week
 Get Weather predction by locality
 You can also location of region by search.
 # Demo
-Deployed Link : https://guileless-marshmallow-17f541.netlify.app
+Github link : https://github.com/krishna8464/Weatherapp
+Netlify Deployed Link : https://guileless-marshmallow-17f541.netlify.app
